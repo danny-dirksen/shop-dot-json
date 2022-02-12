@@ -31,7 +31,7 @@ class ModelManager {
     this.loader = new GLTFLoader().setPath( 'models/' );
 
     const dracoLoader = new DRACOLoader();
-    dracoLoader.setDecoderPath( '/draco/' );
+    dracoLoader.setDecoderPath( 'draco/' );
     this.loader.setDRACOLoader( dracoLoader );
   }
 

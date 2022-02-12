@@ -1,0 +1,1312 @@
+{
+  "info": {
+    "name": "Gucci",
+    "logoIMG": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gucci_logo.svg/1200px-Gucci_logo.svg.png",
+    "website": "https://www.gucci.com"
+  },
+  "palette": {
+    "walls": "#F9F5EC",
+    "floor": "#D6C8BB",
+    "buttons": "#AA9A8A",
+    "accent1": "#017A63",
+    "accent2": "#B03F38"
+  },
+  "inventory": [
+    {
+      "name": "Valentine's Day small Padlock bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1641814242/678864_UPZAV_8455_001_066_0015_Light-Valentines-Day-small-Padlock-bag.jpg",
+      "price": "$ 2,500",
+      "inStock": false
+    },
+    {
+      "name": "Valentine's Day small Padlock bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1641814232/678864_UKEAV_8739_001_066_0025_Light-Valentines-Day-small-Padlock-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "Valentine's Day mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638538342/677610_UKEAV_8739_001_054_0000_Light-Valentines-Day-mini-bag.jpg",
+      "price": "$ 1,500",
+      "inStock": false
+    },
+    {
+      "name": "Women's Valentine's Day Ace sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638297948/682214_UKE10_8760_001_100_0000_Light-Womens-Valentines-Day-Ace-sneaker.jpg",
+      "price": "$ 720",
+      "inStock": true
+    },
+    {
+      "name": "Women's Ace sneaker with bee",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1582710303/431942_02JP0_9064_001_098_0000_Light-Womens-Ace-sneaker-with-bee.jpg",
+      "price": "$ 720",
+      "inStock": true
+    },
+    {
+      "name": "Heart ring with Gucci trademark",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1439455522/223867_J8400_8106_001_100_0000_Light-Heart-ring-with-Gucci-trademark.jpg",
+      "price": "$ 250",
+      "inStock": true
+    },
+    {
+      "name": "Heart necklace with Gucci trademark",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1439376067/223512_J8400_8106_001_100_0000_Light-Heart-necklace-with-Gucci-trademark.jpg",
+      "price": "$ 230",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1616698809/658244_17Q0T_5815_001_080_0000_Light-Gucci-Diana-card-case-wallet.jpg",
+      "price": "$ 550",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana mini tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1617376512/655661_17QDT_5378_001_058_0000_Light-Gucci-Diana-mini-tote-bag.jpg",
+      "price": "$ 2,750",
+      "inStock": true
+    },
+    {
+      "name": "Neo Vintage GG Supreme messenger bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1525683604/476466_K9GVT_8856_001_081_0020_Light-Neo-Vintage-GG-Supreme-messenger-bag.jpg",
+      "price": "$ 1,200",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia card case",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1629219605/523159_96IWG_9794_001_080_0000_Light-Ophidia-card-case.jpg",
+      "price": "$ 280",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia medium tote with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1632746710/631685_96IWB_9794_001_100_0000_Light-Ophidia-medium-tote-with-Web.jpg",
+      "price": "$ 1,350",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG medium tote",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1586365204/631685_96IWB_8745_001_100_0000_Light-Ophidia-GG-medium-tote.jpg",
+      "price": "$ 1,350",
+      "inStock": true
+    },
+    {
+      "name": "Leather 'Gucci' bracelet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638816319/684631_IAAA1_8029_001_100_0000_Light-Leather-Gucci-bracelet.jpg",
+      "price": "$ 420",
+      "inStock": true
+    },
+    {
+      "name": "Cat-eye frame sunglasses",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638236760/691297_J0740_1012_001_100_0000_Light-Cat-eye-frame-sunglasses.jpg",
+      "price": "$ 450",
+      "inStock": true
+    },
+    {
+      "name": "Women's Gucci Run sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1639417510/680903_UF310_1270_001_100_0000_Light-Womens-Gucci-Run-sneaker.jpg",
+      "price": "$ 890",
+      "inStock": true
+    },
+    {
+      "name": "Women's Gucci Run sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1639418450/680902_USM10_8475_001_100_0000_Light-Womens-Gucci-Run-sneaker.jpg",
+      "price": "$ 890",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia medium GG tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638434717/631685_2Y4EG_9180_001_102_0000_Light-Ophidia-medium-GG-tote-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus small GG shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1633472107/400249_2Y4CN_9180_001_076_0000_Light-Dionysus-small-GG-shoulder-bag.jpg",
+      "price": "$ 3,200",
+      "inStock": true
+    },
+    {
+      "name": "Grip watch, 27mm",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1627569904/681762_I8600_9573_001_100_0000_Light-Grip-watch-27mm.jpg",
+      "price": "$ 1,800",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont leather belt with shiny buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1580211003/406831_0YA0G_1000_001_100_0000_Light-GG-Marmont-leather-belt-with-shiny-buckle.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1502384405/446744_DTDIT_6433_001_055_0000_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small matelassé shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1517399105/447632_DTD1T_1000_001_067_0038_Light-GG-Marmont-small-matelass-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1564565408/598125_9IK3T_8745_001_080_0000_Light-Ophidia-GG-small-shoulder-bag.jpg",
+      "price": "$ 1,200",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1573838104/447632_HVKEG_9772_001_067_0039_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 1,200",
+      "inStock": true
+    },
+    {
+      "name": "Women's loafer with Double G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1627285503/670399_BKO60_1000_001_100_0000_Light-Womens-loafer-with-Double-G.jpg",
+      "price": "$ 980",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1537467306/466492_DTD1T_1000_001_080_0000_Light-GG-Marmont-card-case-wallet.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "GG denim wide brim hat",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1640094315/679455_3HAF8_1060_001_100_0000_Light-GG-denim-wide-brim-hat.jpg",
+      "price": "$ 710",
+      "inStock": true
+    },
+    {
+      "name": "GG denim baseball hat",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1640094311/656206_3HAF8_1060_001_100_0000_Light-GG-denim-baseball-hat.jpg",
+      "price": "$ 530",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 mini shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1641813304/685127_UN3AG_1294_001_058_0000_Light-Jackie-1961-mini-shoulder-bag.jpg",
+      "price": "$ 1,900",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638296112/602204_UN3BG_1274_001_069_0000_Light-Gucci-Horsebit-1955-shoulder-bag.jpg",
+      "price": "$ 2,550",
+      "inStock": true
+    },
+    {
+      "name": "Women's platform slide sandal",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1635525921/623212_UN300_1289_001_100_0000_Light-Womens-platform-slide-sandal.jpg",
+      "price": "$ 650",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus GG Supreme super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1618393505/476432_KHNRN_8642_001_057_0017_Light-Dionysus-GG-Supreme-super-mini-bag.jpg",
+      "price": "$ 930",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus GG super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1638539142/476432_UN3BN_1274_001_057_0017_Light-Dionysus-GG-super-mini-bag.jpg",
+      "price": "$ 930",
+      "inStock": true
+    },
+    {
+      "name": "Geometric G print travel set",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1625091316/662431_20XA0_8494_001_100_0000_Light-Geometric-G-print-travel-set.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "Geometric G print sleep mask",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_540x540/1625474710/662423_20VA0_6573_001_100_0000_Light-Geometric-G-print-sleep-mask.jpg",
+      "price": "$ 410",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia zip around wallet with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638540004/523154_96IWG_9794_001_100_0019_Light-Ophidia-zip-around-wallet-with-Web.jpg",
+      "price": "$ 695",
+      "inStock": true
+    },
+    {
+      "name": "2015 Re-Edition wide leather belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1581100203/400593_AP00T_1000_001_100_0000_Light-2015-Re-Edition-wide-leather-belt.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1636133436/678843_UN3AG_1294_001_080_0000_Light-Jackie-1961-small-shoulder-bag.jpg",
+      "price": "$ 2,200",
+      "inStock": true
+    },
+    {
+      "name": "Women's Gucci Tennis 1977 sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632435304/606110_UN320_1291_001_100_0000_Light-Womens-Gucci-Tennis-1977-sneaker.jpg",
+      "price": "$ 690",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia medium GG tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638434708/631685_2Y4EG_8965_001_102_0000_Light-Ophidia-medium-GG-tote-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus small GG shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633472106/400249_2Y4CN_8965_001_076_0000_Light-Dionysus-small-GG-shoulder-bag.jpg",
+      "price": "$ 3,200",
+      "inStock": true
+    },
+    {
+      "name": "Heart bracelet with Gucci trademark",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1462190405/223513_J8400_8106_001_100_0000_Light-Heart-bracelet-with-Gucci-trademark.jpg",
+      "price": "$ 200",
+      "inStock": true
+    },
+    {
+      "name": "Gucci heart charm necklace",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1626884103/678907_J89B0_9515_001_100_0000_Light-Gucci-heart-charm-necklace.jpg",
+      "price": "$ 470",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus small GG shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633455904/499623_UN3BN_1274_001_074_0000_Light-Dionysus-small-GG-shoulder-bag.jpg",
+      "price": "$ 2,550",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia mini GG bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638539153/517350_UN3BG_1274_001_062_0000_Light-Ophidia-mini-GG-bag.jpg",
+      "price": "$ 1,030",
+      "inStock": true
+    },
+    {
+      "name": "GG belt with Double G buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1583509503/625839_92TLT_9769_001_100_0000_Light-GG-belt-with-Double-G-buckle.jpg",
+      "price": "$ 395",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont thin leather belt with shiny buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1580749203/409417_0YA0O_1000_001_100_0000_Light-GG-Marmont-thin-leather-belt-with-shiny-buckle.jpg",
+      "price": "$ 390",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630395911/658551_96IWG_9794_001_056_0000_Light-Ophidia-GG-mini-bag.jpg",
+      "price": "$ 920",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630395905/499621_K05NB_9794_001_065_0017_Light-Ophidia-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630395907/503877_K05NB_9794_001_075_0000_Light-Ophidia-small-shoulder-bag.jpg",
+      "price": "$ 1,790",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia mini bag with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1628146805/517350_96IWS_9794_001_062_0000_Light-Ophidia-mini-bag-with-Web.jpg",
+      "price": "$ 990",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1639761306/636706_HUHHG_9794_001_080_0000_Light-Jackie-1961-small-shoulder-bag.jpg",
+      "price": "$ 2,150",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia small top handle bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1631290506/651055_96IWX_9794_001_066_0000_Light-Ophidia-small-top-handle-bag.jpg",
+      "price": "$ 2,450",
+      "inStock": true
+    },
+    {
+      "name": "Women's GG Gucci Tennis 1977 sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1587557705/606110_HVK20_9766_001_100_0000_Light-Womens-GG-Gucci-Tennis-1977-sneaker.jpg",
+      "price": "$ 630",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630395908/523155_96IWG_9794_001_080_0000_Light-Ophidia-card-case-wallet.jpg",
+      "price": "$ 480",
+      "inStock": true
+    },
+    {
+      "name": "Original GG canvas baseball hat with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1519402505/200035_KQWBG_9791_001_100_0000_Light-Original-GG-canvas-baseball-hat-with-Web.jpg",
+      "price": "$ 415",
+      "inStock": true
+    },
+    {
+      "name": "Original GG canvas baseball hat with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1519416008/200035_KQWBG_1060_001_100_0000_Light-Original-GG-canvas-baseball-hat-with-Web.jpg",
+      "price": "$ 415",
+      "inStock": true
+    },
+    {
+      "name": "Women's GG Rhyton sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1579194905/620185_99WF0_4371_001_100_0000_Light-Womens-GG-Rhyton-sneaker.jpg",
+      "price": "$ 830",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana chain wallet with bamboo",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1620387010/658243_17Q0T_9022_001_100_0015_Light-Gucci-Diana-chain-wallet-with-bamboo.jpg",
+      "price": "$ 980",
+      "inStock": true
+    },
+    {
+      "name": "Soho small leather disco bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1452204006/308364_A7M0G_2754_001_080_0034_Light-Soho-small-leather-disco-bag.jpg",
+      "price": "$ 1,350",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont leather belt with shiny buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1583955903/414516_0YA0G_1000_001_100_0000_Light-GG-Marmont-leather-belt-with-shiny-buckle.jpg",
+      "price": "$ 480",
+      "inStock": true
+    },
+    {
+      "name": "Leather belt with Double G buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1581093903/409416_CVE0T_2535_001_100_0000_Light-Leather-belt-with-Double-G-buckle.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "Leather thong sandal with Double G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1504544407/497444_A3N00_1000_001_096_0000_Light-Leather-thong-sandal-with-Double-G.jpg",
+      "price": "$ 550",
+      "inStock": true
+    },
+    {
+      "name": "GG Blooms Supreme floral slide sandal",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1506535204/408508_KU200_8919_001_090_0000_Light-GG-Blooms-Supreme-floral-slide-sandal.jpg",
+      "price": "$ 380",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1515495607/447632_DTD1T_9022_001_067_0036_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont mini shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630685703/446744_UM8AN_9022_001_055_0000_Light-GG-Marmont-mini-shoulder-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "GucciGhost ring in silver",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1627552803/477339_J8400_0701_001_100_0000_Light-GucciGhost-ring-in-silver.jpg",
+      "price": "$ 260",
+      "inStock": true
+    },
+    {
+      "name": "Interlocking G earrings in silver",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1523268905/457109_J8400_0811_001_100_0000_Light-Interlocking-G-earrings-in-silver.jpg",
+      "price": "$ 230",
+      "inStock": true
+    },
+    {
+      "name": "Square frame sunglasses",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638236785/691332_J1691_2350_001_100_0000_Light-Square-frame-sunglasses.jpg",
+      "price": "$ 390",
+      "inStock": true
+    },
+    {
+      "name": "Navigator frame sunglasses",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638236764/691300_I3331_8023_001_100_0000_Light-Navigator-frame-sunglasses.jpg",
+      "price": "$ 625",
+      "inStock": true
+    },
+    {
+      "name": "Soho small leather disco bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1452222904/308364_A7M0G_1000_001_080_0031_Light-Soho-small-leather-disco-bag.jpg",
+      "price": "$ 1,350",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630396805/447632_UM8BN_1000_001_072_0000_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Women's Gucci Run sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1639417522/680939_USM10_8480_001_100_0000_Light-Womens-Gucci-Run-sneaker.jpg",
+      "price": "$ 890",
+      "inStock": true
+    },
+    {
+      "name": "Women's Gucci Run sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1639417516/680903_USN10_8485_001_100_0000_Light-Womens-Gucci-Run-sneaker.jpg",
+      "price": "$ 890",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana python zip around wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1636500629/658634_LU3XT_6808_001_100_0007_Light-Gucci-Diana-python-zip-around-wallet.jpg",
+      "price": "$ 1,350",
+      "inStock": true
+    },
+    {
+      "name": "Grip watch, 35mm",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1567584904/584272_I8600_8740_001_100_0000_Light-Grip-watch-35mm.jpg",
+      "price": "$ 1,800",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia medium tote with Web",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1636134312/631685_UN3BG_1274_001_100_0000_Light-Ophidia-medium-tote-with-Web.jpg",
+      "price": "$ 1,350",
+      "inStock": false
+    },
+    {
+      "name": "Gucci heart pendant bracelet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625067007/678905_J89B0_9515_001_100_0000_Light-Gucci-heart-pendant-bracelet.jpg",
+      "price": "$ 340",
+      "inStock": false
+    },
+    {
+      "name": "Gucci heart earrings",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637347538/678901_J8400_0728_001_100_0000_Light-Gucci-heart-earrings.jpg",
+      "price": "$ 270",
+      "inStock": false
+    },
+    {
+      "name": "Valentine's Day small heart bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638432995/678131_UP2AV_5575_001_060_0000_Light-Valentines-Day-small-heart-bag.jpg",
+      "price": "$ 1,800",
+      "inStock": false
+    },
+    {
+      "name": "25* Goldie Red, Rouge De Beauté Brillant",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1611682204/647859_9PL13_9025_001_100_0000_Light-25-Goldie-Red-Rouge-De-Beaut-Brillant.jpg",
+      "price": "$ 42",
+      "inStock": true
+    },
+    {
+      "name": "Mascara L'Obscur, black",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1582823703/614670_9PMA4_1000_001_100_0000_Light-Mascara-LObscur-black.jpg",
+      "price": "$ 35",
+      "inStock": true
+    },
+    {
+      "name": "25* Goldie Red, Rouge à Lèvres Mat Lipstick",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1570454106/611234_9PL12_9250_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Mat-Lipstick.jpg",
+      "price": "$ 42",
+      "inStock": true
+    },
+    {
+      "name": "25* Goldie Red, Rouge à Lèvres Voile Lipstick",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1554382805/586169_9PLP8_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Voile-Lipstick.jpg",
+      "price": "$ 42",
+      "inStock": true
+    },
+    {
+      "name": "Valentine's Day small Padlock bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637190927/409487_1T5ZV_5376_001_065_0017_Light-Valentines-Day-small-Padlock-bag.jpg",
+      "price": "$ 2,300",
+      "inStock": false
+    },
+    {
+      "name": "Cotton viscose tweed shorts",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635376551/681239_ZAGLM_9874_001_100_0000_Light-Cotton-viscose-tweed-shorts.jpg",
+      "price": "$ 1,300",
+      "inStock": true
+    },
+    {
+      "name": "Single earring with Gucci script",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1626882308/679076_J1D50_8031_001_100_0000_Light-Single-earring-with-Gucci-script.jpg",
+      "price": "$ 340",
+      "inStock": true
+    },
+    {
+      "name": "Necklace with Gucci script",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1626884105/679044_J1D50_8031_001_100_0000_Light-Necklace-with-Gucci-script.jpg",
+      "price": "$ 980",
+      "inStock": true
+    },
+    {
+      "name": "Tweed v-neck jacket",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1640194234/674332_ZAGLM_9874_001_100_0000_Light-Tweed-v-neck-jacket.jpg",
+      "price": "$ 2,980",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana small tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1620665111/660195_17QDT_9060_001_067_0000_Light-Gucci-Diana-small-tote-bag.jpg",
+      "price": "$ 3,300",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618592403/658574_18YSG_9068_001_077_0067_Light-Gucci-Horsebit-1955-mini-bag.jpg",
+      "price": "$ 2,850",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1581706804/602204_1DB0G_1000_001_074_0000_Light-Gucci-Horsebit-1955-shoulder-bag.jpg",
+      "price": "$ 2,850",
+      "inStock": true
+    },
+    {
+      "name": "Icon thin 18k ring",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1602693003/660070_J8502_9000_001_100_0000_Light-Icon-thin-18k-ring.jpg",
+      "price": "$ 920",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632135603/476433_DTD5N_1000_001_057_0000_Light-GG-Marmont-super-mini-bag.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632262505/476433_DTD5N_2754_001_057_0000_Light-GG-Marmont-super-mini-bag.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1629301506/447632_UM8BN_2754_001_067_0037_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont mini shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1629301504/446744_UM8AN_1711_001_055_0000_Light-GG-Marmont-mini-shoulder-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont mini shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1628009102/446744_UM8AN_1000_001_055_0016_Light-GG-Marmont-mini-shoulder-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637776824/474575_DTD5N_9022_001_100_0021_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 1,600",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637865012/474575_DTD5N_1711_001_100_0026_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 1,600",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637865004/474575_DTD5N_1000_001_100_0028_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 1,600",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625734839/456126_17WEN_2754_001_080_0000_Light-GG-Marmont-card-case-wallet.jpg",
+      "price": "$ 420",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont zip around wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625734836/456117_17WEN_1711_001_100_0009_Light-GG-Marmont-zip-around-wallet.jpg",
+      "price": "$ 595",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630395903/447632_UM8BN_1711_001_072_0023_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont thin belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1634576413/409417_18YXV_9022_001_100_0000_Light-GG-Marmont-thin-belt.jpg",
+      "price": "$ 390",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont wide belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633040104/400593_18YXV_1000_001_100_0000_Light-GG-Marmont-wide-belt.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 small bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1634132703/677286_18YSX_1060_001_076_0067_Light-Gucci-Horsebit-1955-small-bag.jpg",
+      "price": "$ 2,500",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 small bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1634132723/677286_HUHHX_8565_001_076_0067_Light-Gucci-Horsebit-1955-small-bag.jpg",
+      "price": "$ 2,300",
+      "inStock": true
+    },
+    {
+      "name": "Knee-high boot with harness",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1627919108/674670_DS8J0_1079_001_100_0000_Light-Knee-high-boot-with-harness.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Silk mohair sweater with feathers",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635442253/670624_XKB1V_6429_001_100_0000_Light-Silk-mohair-sweater-with-feathers.jpg",
+      "price": "$ 2,500",
+      "inStock": true
+    },
+    {
+      "name": "Vinyl effect skirt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635442245/669706_ZAFCX_1000_001_100_0000_Light-Vinyl-effect-skirt.jpg",
+      "price": "$ 1,500",
+      "inStock": true
+    },
+    {
+      "name": "GG print with Horsebit silk neck bow",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1631292303/663719_3G001_6475_001_100_0000_Light-GG-print-with-Horsebit-silk-neck-bow.jpg",
+      "price": "$ 200",
+      "inStock": true
+    },
+    {
+      "name": "GG print with Horsebit silk carré",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633041909/662576_3G001_6475_001_090_0000_Light-GG-print-with-Horsebit-silk-carr.jpg",
+      "price": "$ 510",
+      "inStock": true
+    },
+    {
+      "name": "Floral Interlocking G tartan cushion",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1619074806/662405_ZAHAB_5902_001_100_0000_Light-Floral-Interlocking-G-tartan-cushion.jpg",
+      "price": "$ 750",
+      "inStock": true
+    },
+    {
+      "name": "The Alchemist’s Garden A Gloaming Night, 100 ml, eau de parfum",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612808106/660724_99999_0099_001_100_0000_Light-The-Alchemists-Garden-A-Gloaming-Night-100-ml-eau-de-parfum.jpg",
+      "price": "$ 330",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 case for AirPods",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1613583904/658611_0YK0G_1000_001_100_0000_Light-Gucci-Horsebit-1955-case-for-AirPods.jpg",
+      "price": "$ 850",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618591505/658574_HUHHG_8565_001_077_0067_Light-Gucci-Horsebit-1955-mini-bag.jpg",
+      "price": "$ 2,550",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 card case",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1615977003/658549_92TCG_8563_001_080_0000_Light-Gucci-Horsebit-1955-card-case.jpg",
+      "price": "$ 495",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 chain wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1603303212/652681_HUHHG_8565_001_100_0021_Light-Jackie-1961-chain-wallet.jpg",
+      "price": "$ 950",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1600794006/645536_14J0G_1000_001_080_0033_Light-Jackie-1961-card-case-wallet.jpg",
+      "price": "$ 550",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1600794010/645536_HUHHG_8565_001_080_0033_Light-Jackie-1961-card-case-wallet.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1601397006/645454_92TCG_8563_001_065_0000_Light-Gucci-Horsebit-1955-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1601395205/645454_92TCG_9761_001_065_0000_Light-Gucci-Horsebit-1955-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 case for AirPods",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1601054114/643880_92TCG_8563_001_100_0000_Light-Gucci-Horsebit-1955-case-for-AirPods.jpg",
+      "price": "$ 530",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini top handle bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1602659705/640716_92TCG_8563_001_065_0000_Light-Gucci-Horsebit-1955-mini-top-handle-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini top handle bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1605642305/640716_92TCG_9761_001_065_0000_Light-Gucci-Horsebit-1955-mini-top-handle-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1600341302/636709_10O0G_1000_001_080_0000_Light-Jackie-1961-small-shoulder-bag.jpg",
+      "price": "$ 2,500",
+      "inStock": true
+    },
+    {
+      "name": "Jackie 1961 small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1600173003/636706_HUHHG_8565_001_080_0000_Light-Jackie-1961-small-shoulder-bag.jpg",
+      "price": "$ 2,150",
+      "inStock": true
+    },
+    {
+      "name": "GG belt with Double G buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1583509503/625839_92TLT_8358_001_100_0000_Light-GG-belt-with-Double-G-buckle.jpg",
+      "price": "$ 395",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618506005/625615_0YK0G_1000_001_064_0000_Light-Gucci-Horsebit-1955-mini-bag.jpg",
+      "price": "$ 980",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618506008/625615_92TCG_8563_001_064_0000_Light-Gucci-Horsebit-1955-mini-bag.jpg",
+      "price": "$ 950",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618506009/625615_92TCG_9761_001_064_0000_Light-Gucci-Horsebit-1955-mini-bag.jpg",
+      "price": "$ 950",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 wallet with chain",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1579790706/621892_92TCG_8563_001_100_0000_Light-Gucci-Horsebit-1955-wallet-with-chain.jpg",
+      "price": "$ 940",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1580999403/621887_92TCG_8563_001_080_0000_Light-Gucci-Horsebit-1955-card-case-wallet.jpg",
+      "price": "$ 470",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1582047004/602204_92TCG_8563_001_074_0000_Light-Gucci-Horsebit-1955-shoulder-bag.jpg",
+      "price": "$ 2,550",
+      "inStock": true
+    },
+    {
+      "name": "25* Goldie Red, Rouge à Lèvres Satin Lipstick",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1554384605/586168_9PLP7_9525_001_100_0000_Light-25-Goldie-Red-Rouge-Lvres-Satin-Lipstick.jpg",
+      "price": "$ 42",
+      "inStock": true
+    },
+    {
+      "name": "GG pattern throw blanket",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1554913814/568107_ZABGV_2034_001_100_0000_Light-GG-pattern-throw-blanket.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Bamboo 1947 jumbo GG mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635552954/686864_UQLBT_2570_001_063_0000_Light-Gucci-Bamboo-1947-jumbo-GG-mini-bag.jpg",
+      "price": "$ 2,390",
+      "inStock": true
+    },
+    {
+      "name": "Jumbo GG canvas baseball hat",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632817812/681264_3HAGJ_2564_001_100_0000_Light-Jumbo-GG-canvas-baseball-hat.jpg",
+      "price": "$ 415",
+      "inStock": true
+    },
+    {
+      "name": "Jumbo GG canvas bucket hat",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632817812/681256_3HAGJ_2564_001_100_0000_Light-Jumbo-GG-canvas-bucket-hat.jpg",
+      "price": "$ 530",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Bamboo 1947 small top handle bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1637922638/675797_10ODT_2579_001_070_0000_Light-Gucci-Bamboo-1947-small-top-handle-bag.jpg",
+      "price": "$ 3,200",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Bamboo 1947 jumbo GG small top handle bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635549332/675797_UKMDT_2570_001_070_0000_Light-Gucci-Bamboo-1947-jumbo-GG-small-top-handle-bag.jpg",
+      "price": "$ 2,980",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana small tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1620665109/660195_17QDT_2582_001_067_0000_Light-Gucci-Diana-small-tote-bag.jpg",
+      "price": "$ 3,300",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana jumbo GG wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635876019/658634_UKMBT_2572_001_080_0000_Light-Gucci-Diana-jumbo-GG-wallet.jpg",
+      "price": "$ 770",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana jumbo GG card case",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1643184029/658244_UKMBT_2572_001_080_0000_Light-Gucci-Diana-jumbo-GG-card-case.jpg",
+      "price": "$ 520",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Diana mini tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1620663303/655661_17QDT_2582_001_058_0000_Light-Gucci-Diana-mini-tote-bag.jpg",
+      "price": "$ 2,750",
+      "inStock": true
+    },
+    {
+      "name": "Bee ring with Interlocking G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1582706704/629923_J1D51_8516_001_100_0000_Light-Bee-ring-with-Interlocking-G.jpg",
+      "price": "$ 410",
+      "inStock": true
+    },
+    {
+      "name": "Women's platform slide sandal",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632435306/623212_UKO00_2580_001_100_0000_Light-Womens-platform-slide-sandal.jpg",
+      "price": "$ 650",
+      "inStock": true
+    },
+    {
+      "name": "GG wool jacquard scarf",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1569597305/598993_3GC15_9764_001_100_0000_Light-GG-wool-jacquard-scarf.jpg",
+      "price": "$ 520",
+      "inStock": true
+    },
+    {
+      "name": "Women's jumbo GG Princetown slipper",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635545716/475094_UKO60_2588_001_100_0000_Light-Womens-jumbo-GG-Princetown-slipper.jpg",
+      "price": "$ 790",
+      "inStock": true
+    },
+    {
+      "name": "Women's maxi GG Gucci Jordaan loafer",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635545703/431467_UKO60_2588_001_100_0000_Light-Womens-maxi-GG-Gucci-Jordaan-loafer.jpg",
+      "price": "$ 830",
+      "inStock": true
+    },
+    {
+      "name": "Jumbo GG Marmont wide belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1635440403/400593_UQLAC_2572_001_100_0000_Light-Jumbo-GG-Marmont-wide-belt.jpg",
+      "price": "$ 450",
+      "inStock": true
+    },
+    {
+      "name": "GG canvas shorts with leather trim",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1632938415/681154_Z8AV7_2184_001_100_0000_Light-GG-canvas-shorts-with-leather-trim.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "GUCCI 25H watch, 34mm",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1627284606/673113_ICUA0_9812_001_100_0000_Light-GUCCI-25H-watch-34mm.jpg",
+      "price": "$ 1,900",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Link to Love mirrored ring",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1613672107/662194_J8500_8000_001_100_0000_Light-Gucci-Link-to-Love-mirrored-ring.jpg",
+      "price": "$ 890",
+      "inStock": true
+    },
+    {
+      "name": "Interlocking G gold earrings",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1615807803/662111_J8500_8000_001_100_0000_Light-Interlocking-G-gold-earrings.jpg",
+      "price": "$ 650",
+      "inStock": true
+    },
+    {
+      "name": "Interlocking G 18k bracelet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1585656004/629904_J8500_8000_001_100_0000_Light-Interlocking-G-18k-bracelet.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "Interlocking G 18k necklace",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1584644404/629901_J8500_8000_001_100_0000_Light-Interlocking-G-18k-necklace.jpg",
+      "price": "$ 1,650",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 wallet with chain",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1584034204/621892_92TCG_9761_001_100_0000_Light-Gucci-Horsebit-1955-wallet-with-chain.jpg",
+      "price": "$ 940",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Horsebit 1955 card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1583178305/621887_92TCG_9761_001_080_0000_Light-Gucci-Horsebit-1955-card-case-wallet.jpg",
+      "price": "$ 470",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1583387104/499623_92TJN_8660_001_074_0000_Light-Dionysus-small-shoulder-bag.jpg",
+      "price": "$ 2,550",
+      "inStock": true
+    },
+    {
+      "name": "Leather belt with Double G buckle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1581092103/409417_AP00T_1000_001_100_0000_Light-Leather-belt-with-Double-G-buckle.jpg",
+      "price": "$ 390",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1600890303/400593_0YA0P_1000_001_100_0000_Light-GG-Marmont-belt.jpg",
+      "price": "$ 490",
+      "inStock": true
+    },
+    {
+      "name": "Icon ring with Interlocking G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625066106/679262_J85V5_8062_001_100_0000_Light-Icon-ring-with-Interlocking-G.jpg",
+      "price": "$ 670",
+      "inStock": true
+    },
+    {
+      "name": "Women's ankle boot with Double G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1626797710/678984_17K40_1284_001_100_0000_Light-Womens-ankle-boot-with-Double-G.jpg",
+      "price": "$ 1,250",
+      "inStock": true
+    },
+    {
+      "name": "Reversible Interlocking G wool cardigan",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633648509/678308_XKB7T_9194_001_100_0000_Light-Reversible-Interlocking-G-wool-cardigan.jpg",
+      "price": "$ 2,980",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1629218712/672251_DTDHT_1000_001_064_0000_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 950",
+      "inStock": true
+    },
+    {
+      "name": "Women's GG embossed sneaker",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1627920004/670408_1XL10_9014_001_100_0000_Light-Womens-GG-embossed-sneaker.jpg",
+      "price": "$ 850",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612311317/658610_17WAG_5788_001_080_0000_Light-GG-Marmont-card-case-wallet.jpg",
+      "price": "$ 370",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1623312911/658610_17WAG_1283_001_080_0000_Light-GG-Marmont-card-case-wallet.jpg",
+      "price": "$ 370",
+      "inStock": true
+    },
+    {
+      "name": "Crystal 'Gucci' hair slide",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1615810508/657510_I6325_8518_001_100_0000_Light-Crystal-Gucci-hair-slide.jpg",
+      "price": "$ 530",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont mini bucket bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1558713623/575163_DTDRT_9022_001_065_0014_Light-GG-Marmont-mini-bucket-bag.jpg",
+      "price": "$ 980",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Bloom 100ml eau de parfum",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1545327905/488830_99999_0099_001_100_0000_Light-Gucci-Bloom-100ml-eau-de-parfum.jpg",
+      "price": "$ 138",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé leather super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1587568505/476433_DTDCT_9022_001_057_0000_Light-GG-Marmont-matelass-leather-super-mini-bag.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé leather super mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1587569403/476433_DTDCT_1000_001_057_0000_Light-GG-Marmont-matelass-leather-super-mini-bag.jpg",
+      "price": "$ 1,100",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small matelassé shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1515495604/443497_DTDIT_9022_001_063_0000_Light-GG-Marmont-small-matelass-shoulder-bag.jpg",
+      "price": "$ 2,350",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small matelassé shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1515492904/443497_DTDIT_1000_001_063_0000_Light-GG-Marmont-small-matelass-shoulder-bag.jpg",
+      "price": "$ 2,350",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1569596404/443497_HVKEG_9772_001_062_0000_Light-GG-Marmont-small-shoulder-bag.jpg",
+      "price": "$ 2,050",
+      "inStock": true
+    },
+    {
+      "name": "Leather ankle boot with belt",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1537468210/550036_DKS00_1000_001_100_0000_Light-Leather-ankle-boot-with-belt.jpg",
+      "price": "$ 1,190",
+      "inStock": true
+    },
+    {
+      "name": "GG Marmont matelassé mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1502382612/448065_DTD1T_1000_001_054_0064_Light-GG-Marmont-matelass-mini-bag.jpg",
+      "price": "$ 1,300",
+      "inStock": true
+    },
+    {
+      "name": "Online Exclusive Ophidia case for iPhone 12 Pro Max",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625733012/675983_97S1G_8745_001_100_0000_Light-Online-Exclusive-Ophidia-case-for-iPhone-12-Pro-Max.jpg",
+      "price": "$ 690",
+      "inStock": true
+    },
+    {
+      "name": "Online Exclusive Ophidia case for iPhone 12 and iPhone 12 Pro",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1636048856/675977_97S1G_8745_001_100_0000_Light-Online-Exclusive-Ophidia-case-for-iPhone-12-and-iPhone-12-Pro.jpg",
+      "price": "$ 690",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Flora Gorgeous Gardenia, 100ml, eau de parfum",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1614617112/667343_99999_0099_001_100_0000_Light-Gucci-Flora-Gorgeous-Gardenia-100ml-eau-de-parfum.jpg",
+      "price": "$ 138",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG card case wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612311315/658552_96IWG_8745_001_080_0000_Light-Ophidia-GG-card-case-wallet.jpg",
+      "price": "$ 470",
+      "inStock": true
+    },
+    {
+      "name": "Freesia, medium murano candle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1616715013/656882_ZAG0A_5378_001_100_0000_Light-Freesia-medium-murano-candle.jpg",
+      "price": "$ 325",
+      "inStock": true
+    },
+    {
+      "name": "Padlock mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1611770408/652683_96GAG_9785_001_062_0000_Light-Padlock-mini-bag.jpg",
+      "price": "$ 1,200",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia medium tote",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1613063706/631685_CWG1A_1060_001_100_0000_Light-Ophidia-medium-tote.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia pouch",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1584034204/625549_96IWG_8745_001_100_0000_Light-Ophidia-pouch.jpg",
+      "price": "$ 780",
+      "inStock": true
+    },
+    {
+      "name": "GG Flora print silk neck bow",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1585141204/609317_3G001_9772_001_100_0000_Light-GG-Flora-print-silk-neck-bow.jpg",
+      "price": "$ 195",
+      "inStock": true
+    },
+    {
+      "name": "GG Flora print silk scarf",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1585008903/602585_3G001_9772_001_090_0000_Light-GG-Flora-print-silk-scarf.jpg",
+      "price": "$ 495",
+      "inStock": true
+    },
+    {
+      "name": "Gucci Ouroboros trinket tray",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1616714107/561705_ZAG83_5759_001_100_0000_Light-Gucci-Ouroboros-trinket-tray.jpg",
+      "price": "$ 330",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia mini GG bucket bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1535560217/550620_96I3B_8745_001_050_0000_Light-Ophidia-mini-GG-bucket-bag.jpg",
+      "price": "$ 1,250",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia mini GG bucket bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1638296103/550620_96I3B_9794_001_050_0000_Light-Ophidia-mini-GG-bucket-bag.jpg",
+      "price": "$ 1,250",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia mini GG round shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1539799209/550618_96I3B_8745_001_061_0000_Light-Ophidia-mini-GG-round-shoulder-bag.jpg",
+      "price": "$ 1,450",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia small GG tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1565101803/547551_K05NB_8745_001_072_0000_Light-Ophidia-small-GG-tote-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia small tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1633472111/547551_K05NB_9794_001_072_0000_Light-Ophidia-small-tote-bag.jpg",
+      "price": "$ 1,980",
+      "inStock": true
+    },
+    {
+      "name": "Double G flower ring",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612780203/527394_J8440_8164_001_100_0000_Light-Double-G-flower-ring.jpg",
+      "price": "$ 390",
+      "inStock": true
+    },
+    {
+      "name": "Double G bracelet with flower",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612780203/527393_J8440_8164_001_100_0000_Light-Double-G-bracelet-with-flower.jpg",
+      "price": "$ 430",
+      "inStock": true
+    },
+    {
+      "name": "Double G flower stud earrings",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1612780203/527344_J8440_8164_001_100_0000_Light-Double-G-flower-stud-earrings.jpg",
+      "price": "$ 300",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG zip around wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1519820105/523154_96IWG_8745_001_100_0024_Light-Ophidia-GG-zip-around-wallet.jpg",
+      "price": "$ 695",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1501587907/503877_K05NG_8745_001_075_0000_Light-Ophidia-GG-small-shoulder-bag.jpg",
+      "price": "$ 1,790",
+      "inStock": true
+    },
+    {
+      "name": "Ophidia GG small shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1507824006/499621_K05NG_8745_001_065_0000_Light-Ophidia-GG-small-shoulder-bag.jpg",
+      "price": "$ 1,490",
+      "inStock": true
+    },
+    {
+      "name": "Padlock small berry tote bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1629217806/498156_UM6AG_8295_001_061_0000_Light-Padlock-small-berry-tote-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "\"Blind For Love\" necklace in silver",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1474649104/455542_J8400_0701_001_100_0000_Light-Blind-For-Love-necklace-in-silver.jpg",
+      "price": "$ 260",
+      "inStock": true
+    },
+    {
+      "name": "\"Blind For Love\" ring in silver",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1470213003/455247_J8400_0701_001_100_0000_Light-Blind-For-Love-ring-in-silver.jpg",
+      "price": "$ 270",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus GG Supreme mini bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1450200624/421970_KHNRN_8642_001_065_0000_Light-Dionysus-GG-Supreme-mini-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "Padlock small berry shoulder bag",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1630534507/409487_UM6AG_8295_001_065_0000_Light-Padlock-small-berry-shoulder-bag.jpg",
+      "price": "$ 2,100",
+      "inStock": true
+    },
+    {
+      "name": "Dionysus GG Supreme chain wallet",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1618394406/401231_KHNSN_8642_001_100_0008_Light-Dionysus-GG-Supreme-chain-wallet.jpg",
+      "price": "$ 1,450",
+      "inStock": true
+    },
+    {
+      "name": "GG wool scarf",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1439376067/133483_3G200_1272_001_100_0000_Light-GG-wool-scarf.jpg",
+      "price": "$ 380",
+      "inStock": true
+    },
+    {
+      "name": "Mehen, Herbarium print candle",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1628096414/681032_ZAH9R_7385_001_100_0000_Light-Mehen-Herbarium-print-candle.jpg",
+      "price": "$ 325",
+      "inStock": true
+    },
+    {
+      "name": "Herbarium mug",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1628096411/668798_ZAH9R_7385_001_100_0000_Light-Herbarium-mug.jpg",
+      "price": "$ 270",
+      "inStock": true
+    },
+    {
+      "name": "Silk Geometric G print pajama set",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1626275705/663490_ZLP98_7121_001_100_0000_Light-Silk-Geometric-G-print-pajama-set.jpg",
+      "price": "$ 3,800",
+      "inStock": true
+    },
+    {
+      "name": "Geometric G print inflatable travel pillow",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625091313/662425_20VB0_7587_001_100_0000_Light-Geometric-G-print-inflatable-travel-pillow.jpg",
+      "price": "$ 500",
+      "inStock": true
+    },
+    {
+      "name": "Double playing card set with Double G",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625475611/662295_2ZGFG_8745_001_090_0000_Light-Double-playing-card-set-with-Double-G.jpg",
+      "price": "$ 570",
+      "inStock": true
+    },
+    {
+      "name": "Disney x Gucci Daisy Duck pencil case",
+      "image": "media.gucci.com/style/DarkGray_South_0_160_316x316/1625503503/662129_2Z3CG_9777_001_100_0012_Light-Disney-x-Gucci-Daisy-Duck-pencil-case.jpg",
+      "price": "$ 390",
+      "inStock": true
+    }
+  ]
+}

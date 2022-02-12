@@ -1,0 +1,464 @@
+{
+  "info": {
+    "name": "Amazon Toilet Paper",
+    "logoIMG": "https://rogerpacker.com/wp-content/uploads/2014/06/Amazon-logo.png",
+    "website": "https://www.amazon.com/"
+  },
+  "palette": {
+    "walls": "#F5F5F5",
+    "floor": "#232F3E",
+    "buttons": "#784C92",
+    "accent1": "#FEBD69",
+    "accent2": "#37475A"
+  },
+  "inventory": [
+    {
+      "name": "Scott Essential Professional 100% Recycled Fiber Bulk Toilet Paper for Business (13217), 2-PLY Standard Rolls, White, 80 Rolls / Case, 506 Sheets / Roll (Packaging may vary)",
+      "url": "https://www.amazon.com/Essential-Professional-Recycled-Business-Standard/dp/B008I7TNDW/ref=sxts_rp_s1_0?cv_ct_cx=toilet+paper&keywords=toilet+paper&pd_rd_i=B008I7TNDW&pd_rd_r=751d52f3-b809-44ce-9604-754b1574ef63&pd_rd_w=MS4Jx&pd_rd_wg=FEmhV&pf_rd_p=dc8286ba-5f1e-4679-adde-8b7fe66c128e&pf_rd_r=BPXRM0EHBNJZ1V54CWYW&psc=1&qid=1644528988&sr=1-1-5e1b2986-06e6-4004-a85e-73bfa3ee44fe",
+      "image": "https://m.media-amazon.com/images/I/81l9-7JuhVL._AC_UL320_.jpg",
+      "price": "$47.99",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Professional 100% Recycled Fiber Bulk Toilet Paper for Business (13217), 2-PLY Standard Rolls, White, 80 Rolls / Case, 506 Sheets / Roll (Packaging may vary)",
+      "url": "https://www.amazon.com/Essential-Professional-Recycled-Business-Standard/dp/B008I7TNDW/ref=sxts_rp_s1_0?cv_ct_cx=toilet+paper&keywords=toilet+paper&pd_rd_i=B008I7TNDW&pd_rd_r=751d52f3-b809-44ce-9604-754b1574ef63&pd_rd_w=MS4Jx&pd_rd_wg=FEmhV&pf_rd_p=dc8286ba-5f1e-4679-adde-8b7fe66c128e&pf_rd_r=BPXRM0EHBNJZ1V54CWYW&psc=1&qid=1644528988&sr=1-1-5e1b2986-06e6-4004-a85e-73bfa3ee44fe",
+      "image": "https://m.media-amazon.com/images/I/81l9-7JuhVL._AC_UL320_.jpg",
+      "price": "$47.99",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Professional Bulk Toilet Paper for Business (17713), Standard Toilet Paper Rolls, 2-Ply, White, 60 Rolls/Case, 451 Sheets/Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A091815737SIF0749AFL0&url=%2FCottonelle-Professional-Toilet-Business-Standard%2Fdp%2FB0014C440U%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-1-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_atf",
+      "image": "https://m.media-amazon.com/images/I/81CNKRytkYL._AC_UL320_.jpg",
+      "price": "$56.15",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Professional Bulk Toilet Paper for Business (04460), Individually Wrapped Standard Rolls, 2-PLY, White, 80 Rolls / Case, 550 Sheets / Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09180333G62JRGOM3G5V&url=%2FEssential-Professional-Business-Individually-Standard%2Fdp%2FB001AZFA0O%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-2-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_atf",
+      "image": "https://m.media-amazon.com/images/I/81NWAtE6zKL._AC_UL320_.jpg",
+      "price": "$63.43",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Jumbo Roll JR. Commercial Toilet Paper (67805), 100% Recycled Fiber, 2-PLY, White, 12 Rolls / Case, 1000' / Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A02508191T871MQ48UI8X&url=%2FScott-67805-Recycled-Bathroom-Tissue%2Fdp%2FB0040ZOIZO%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-3-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_atf",
+      "image": "https://m.media-amazon.com/images/I/81NRqlHXvVL._AC_UL320_.jpg",
+      "price": "$39.86",
+      "inStock": true
+    },
+    {
+      "name": "DUDE WIPES Flushable Wipes, Quit Toilet Paper Starter Kit, Mint Chill Wet Wipes with Mint, Eucalyptus, and Tea Tree Essential Oils, Home and Away Combo",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09937505WZ6C6CRIPBS&url=%2FFlushable-Dispenser-Individually-Eucalyptus-Essential%2Fdp%2FB08WJQYYY2%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-4-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_atf",
+      "image": "https://m.media-amazon.com/images/I/9128140iCzL._AC_UL320_.jpg",
+      "price": "$14.45",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Ultra ComfortCare Toilet Paper with Cushiony CleaningRipples, 24 Family Mega Rolls (4 Packs of 6), 2-Ply Soft Bath Tissue (24 Family Mega Rolls = 108 Regular Rolls)",
+      "url": "https://www.amazon.com/Cottonelle-ComfortCare-CleaningRipples-Biodegradable-Septic-Safe/dp/B07ND3MW45/ref=sr_1_5?keywords=toilet+paper&qid=1644528988&sr=8-5",
+      "image": "https://m.media-amazon.com/images/I/81TgHB9p+FL._AC_UL320_.jpg",
+      "price": "$25.18",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Soft Toilet Paper Family Mega Roll, 18 Count (Packaging May Vary)",
+      "url": "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Packaging/dp/B07986PWD3/ref=sr_1_6?keywords=toilet+paper&qid=1644528988&sr=8-6",
+      "image": "https://m.media-amazon.com/images/I/619LfwjbAiL._AC_UL320_.jpg",
+      "price": "$23.63",
+      "inStock": true
+    },
+    {
+      "name": "Amazon Brand - Presto! 308-Sheet Mega Roll Toilet Paper, Ultra-Soft, 24 Mega Rolls = 112 regular rolls",
+      "url": "https://www.amazon.com/Amazon-Brand-Presto-308-Sheet-Ultra-Soft/dp/B074CRK54X/ref=sr_1_7?keywords=toilet+paper&qid=1644528988&sr=8-7",
+      "image": "https://m.media-amazon.com/images/I/713uTbbFejL._AC_UL320_.jpg",
+      "price": "$22.25",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Professional Bulk Toilet Paper for Business (17713), Standard Toilet Paper Rolls, 2-Ply, White, 60 Rolls/Case, 451 Sheets/Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_1?ie=UTF8&adId=A091815737SIF0749AFL0&url=%2FCottonelle-Professional-Toilet-Business-Standard%2Fdp%2FB0014C440U%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB0014C440U%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/81CNKRytkYL._AC_UL320_.jpg",
+      "price": "$56.15",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Professional Bulk Toilet Paper for Business (17713), Standard Toilet Paper Rolls, 2-Ply, White, 60 Rolls/Case, 451 Sheets/Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_1?ie=UTF8&adId=A091815737SIF0749AFL0&url=%2FCottonelle-Professional-Toilet-Business-Standard%2Fdp%2FB0014C440U%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB0014C440U%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-1-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/81CNKRytkYL._AC_UL320_.jpg",
+      "price": "$56.15",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Professional Bulk Toilet Paper for Business (04460), Individually Wrapped Standard Rolls, 2-PLY, White, 80 Rolls / Case, 550 Sheets / Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_2?ie=UTF8&adId=A09180333G62JRGOM3G5V&url=%2FEssential-Professional-Business-Individually-Standard%2Fdp%2FB001AZFA0O%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB001AZFA0O%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-2-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/81NWAtE6zKL._AC_UL320_.jpg",
+      "price": "$63.43",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Jumbo Roll JR. Commercial Toilet Paper (67805), 100% Recycled Fiber, 2-PLY, White, 12 Rolls / Case, 1000' / Roll",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_3?ie=UTF8&adId=A02508191T871MQ48UI8X&url=%2FScott-67805-Recycled-Bathroom-Tissue%2Fdp%2FB0040ZOIZO%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB0040ZOIZO%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-3-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/81NRqlHXvVL._AC_UL320_.jpg",
+      "price": "$39.86",
+      "inStock": true
+    },
+    {
+      "name": "",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_4?ie=UTF8&adId=A09937505WZ6C6CRIPBS&url=%2FFlushable-Dispenser-Individually-Eucalyptus-Essential%2Fdp%2FB08WJQYYY2%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB08WJQYYY2%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-4-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/9128140iCzL._AC_UL320_.jpg",
+      "price": "",
+      "inStock": true
+    },
+    {
+      "name": "",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_search_thematic_aps_sr_pg1_5?ie=UTF8&adId=A09050431GHIPAW0ACJOY&url=%2FTork-Universal-TM1616S-Tissue-Length%2Fdp%2FB004QKNQYW%2Fref%3Dsxin_12_pa_sp_search_thematic_sspa%3Fcv_ct_cx%3Dtoilet%2Bpaper%26keywords%3Dtoilet%2Bpaper%26pd_rd_i%3DB004QKNQYW%26pd_rd_r%3D8ef76f40-e0a2-4d9d-9e4d-9091694eaeb0%26pd_rd_w%3Dah8f3%26pd_rd_wg%3DyfIgE%26pf_rd_p%3D54809c33-80a2-46df-9591-6ca7acea08f1%26pf_rd_r%3DBPXRM0EHBNJZ1V54CWYW%26qid%3D1644528988%26sr%3D1-5-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons%26psc%3D1&qualifier=1644528988&id=8480037264611719&widgetName=sp_search_thematic",
+      "image": "https://m.media-amazon.com/images/I/719c1Ug5xVL._AC_UL320_.jpg",
+      "price": "",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Ultra CleanCare Soft Toilet Paper with Active Cleaning Ripples, 24 Family Mega Rolls, Strong Bath Tissue (24 Family Mega Rolls = 128 Regular Rolls)",
+      "url": "https://www.amazon.com/Cottonelle-CleanCare-CleaningRipples-Biodegradable-Septic-Safe/dp/B07ND5BB8V/ref=sr_1_8?keywords=toilet+paper&qid=1644528988&sr=8-8",
+      "image": "https://m.media-amazon.com/images/I/81NjC2FlvqL._AC_UL320_.jpg",
+      "price": "$25.18",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Strong Clean Touch Toilet Paper, 18 Family Mega Rolls = 90 Regular Rolls",
+      "url": "https://www.amazon.com/Charmin-Strong-Toilet-Family-Packaging/dp/B0798DVT69/ref=sr_1_9?keywords=toilet+paper&qid=1644528988&sr=8-9",
+      "image": "https://m.media-amazon.com/images/I/81SRhCfNu3L._AC_UL320_.jpg",
+      "price": "$24.56",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Ultra CleanCare Strong Toilet Paper with Active Cleaning Ripples, 6 Family Mega Rolls, Bath Tissue (6 Family Mega Rolls = 32 Regular Rolls)",
+      "url": "https://www.amazon.com/Cottonelle-CleanCare-Cleaning-Ripples-Regular/dp/B08QPWG817/ref=sr_1_10?keywords=toilet+paper&qid=1644528988&sr=8-10",
+      "image": "https://m.media-amazon.com/images/I/81Sbi7WH4rS._AC_UL320_.jpg",
+      "price": "$11.49",
+      "inStock": true
+    },
+    {
+      "name": "Quilted Northern Ultra Soft and Strong 18 Mega Rolls, White",
+      "url": "https://www.amazon.com/Quilted-Northern-Ultra-Strong-Rolls/dp/B09L533P4K/ref=sr_1_11?keywords=toilet+paper&qid=1644528988&sr=8-11",
+      "image": "https://m.media-amazon.com/images/I/91bQslTIx5L._AC_UL320_.jpg",
+      "price": "$17.98",
+      "inStock": true
+    },
+    {
+      "name": "Angel Soft® Toilet Paper, 36 Mega Rolls = 144 Regular Rolls, 2-Ply Bath Tissue",
+      "url": "https://www.amazon.com/Angel-Soft-Toilet-Regular-Tissue/dp/B07SVB39J2/ref=sr_1_12?keywords=toilet+paper&qid=1644528988&sr=8-12",
+      "image": "https://m.media-amazon.com/images/I/81wDLSMqARL._AC_UL320_.jpg",
+      "price": "$29.92",
+      "inStock": true
+    },
+    {
+      "name": "Quilted Northern Ultra Plush Toilet Paper, 18 Mega Rolls = 72 Regular Rolls, 3-Ply Bath Tissue",
+      "url": "https://www.amazon.com/Quilted-Northern-Bathroom-Tissue-Count/dp/B0854WL4G3/ref=sr_1_13?keywords=toilet+paper&qid=1644528988&sr=8-13",
+      "image": "https://m.media-amazon.com/images/I/91yCriMDRZL._AC_UL320_.jpg",
+      "price": "$15.74",
+      "inStock": true
+    },
+    {
+      "name": "Scott 1000 Trusted Clean Toilet Paper, 32 Rolls (4 Packs of 8), 1,000 Sheets Per Roll, Septic-Safe, Bath Tissue Made Sustainably",
+      "url": "https://www.amazon.com/Scott-Trusted-Toilet-Septic-Safe-Sustainably/dp/B093CKHPKK/ref=sr_1_14?keywords=toilet+paper&qid=1644528988&sr=8-14",
+      "image": "https://m.media-amazon.com/images/I/81iqOuAdneS._AC_UL320_.jpg",
+      "price": "$31.09",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Ultra ComfortCare Soft Toilet Paper, 12 Big Rolls, Bath Tissue",
+      "url": "https://www.amazon.com/Cottonelle-ComfortCare-Toilet-Biodegradable-Septic-Safe/dp/B07C9JYF2W/ref=sr_1_15?keywords=toilet+paper&qid=1644528988&sr=8-15",
+      "image": "https://m.media-amazon.com/images/I/81YaGKoqEWL._AC_UL320_.jpg",
+      "price": "$21.49",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Soft Toilet Paper Family Mega Roll, 24 Count (Packaging May Vary)",
+      "url": "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Sheets/dp/B0798DVT68/ref=sr_1_16?keywords=toilet+paper&qid=1644528988&sr=8-16",
+      "image": "https://m.media-amazon.com/images/I/61Bo1P-dwtL._AC_UL320_.jpg",
+      "price": "$31.51",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Ultra ComfortCare Soft Toilet Paper, 12 Big Rolls, Bath Tissue",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A00326117MMS48TLOUHN&url=%2FCottonelle-ComfortCare-Toilet-Biodegradable-Septic-Safe%2Fdp%2FB07C9JYF2W%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-17-spons%26psc%3D1%26smid%3DA13JDRF2GISPLX&qualifier=1644528988&id=7679219928646025&widgetName=sp_mtf",
+      "image": "https://m.media-amazon.com/images/I/81YaGKoqEWL._AC_UL320_.jpg",
+      "price": "$21.49",
+      "inStock": true
+    },
+    {
+      "name": "ngel Soft Ultra Professional Series 2-Ply Embossed Toilet Paper by GP PRO, 1632014, 400 Sheets Per Roll, 20 Rolls Per Convenience Case",
+      "url": "https://www.amazon.com/Georgia-Pacific-Professional-Premium-Embossed-16840/dp/B007CLQE0U/ref=sr_1_18?keywords=toilet+paper&qid=1644528988&sr=8-18",
+      "image": "https://m.media-amazon.com/images/I/81fTgytIg4L._AC_UL320_.jpg",
+      "price": "$42.99",
+      "inStock": true
+    },
+    {
+      "name": "Member's Mark Ultra Premium Bath Tissue, 2 ply (232 Sheets, 45 Rolls)",
+      "url": "https://www.amazon.com/Members-Mark-Premium-Tissue-sheets/dp/B01LG2QLSU/ref=sr_1_19?keywords=toilet+paper&qid=1644528988&sr=8-19",
+      "image": "https://m.media-amazon.com/images/I/714lUcDtiIL._AC_UL320_.jpg",
+      "price": "$29.80",
+      "inStock": true
+    },
+    {
+      "name": "Betterway Bamboo Toilet Paper 3 PLY - Eco Friendly, Sustainable Toilet Tissue - 12 Double Rolls & 360 Sheets Per Roll - Septic Safe - Organic, Plastic Free, Compostable & Biodegradable - FSC Certified",
+      "url": "https://www.amazon.com/Bamboo-Toilet-Paper-Betterway-Biodegradable/dp/B07Y7KDZ47/ref=sr_1_20?keywords=toilet+paper&qid=1644528988&sr=8-20",
+      "image": "https://m.media-amazon.com/images/I/71R-qMVD5FL._AC_UL320_.jpg",
+      "price": "$27.99",
+      "inStock": true
+    },
+    {
+      "name": "Scott Essential Professional 100% Recycled Fiber Bulk Toilet Paper for Business (13217), 2-PLY Standard Rolls, White, 80 Rolls / Case, 506 Sheets / Roll (Packaging may vary)",
+      "url": "https://www.amazon.com/Essential-Professional-Recycled-Business-Standard/dp/B008I7TNDW/ref=sr_1_21?keywords=toilet+paper&qid=1644528988&sr=8-21",
+      "image": "https://m.media-amazon.com/images/I/81l9-7JuhVL._AC_UL320_.jpg",
+      "price": "$47.99",
+      "inStock": true
+    },
+    {
+      "name": "Scott Rapid-Dissolving Toilet Paper, 48 Double Rolls (6 Packs of 8) = 96 Regular Rolls, 231 Sheets Per Rolls, Made for RVs and Boats",
+      "url": "https://www.amazon.com/Scott-Rapid-Dissolving-Toilet-Double-Regular/dp/B08M2LCMQF/ref=sr_1_22?keywords=toilet+paper&qid=1644528988&sr=8-22",
+      "image": "https://m.media-amazon.com/images/I/8105v4DNoNS._AC_UL320_.jpg",
+      "price": "$36.99",
+      "inStock": true
+    },
+    {
+      "name": "Quilted Northern Ultra Plush Toilet Paper, 24 Supreme Rolls = 105 Regular Rolls, 3-ply Bath Tissue",
+      "url": "https://www.amazon.com/Quilted-Northern-Toilet-Supreme-Regular/dp/B01B5KAAUS/ref=sr_1_23?keywords=toilet+paper&qid=1644528988&sr=8-23",
+      "image": "https://m.media-amazon.com/images/I/81560BphRRS._AC_UL320_.jpg",
+      "price": "$26.93",
+      "inStock": true
+    },
+    {
+      "name": "Angel Soft® Ultra Toilet Paper, 36 Mega Rolls, 2-Ply Bath Tissue",
+      "url": "https://www.amazon.com/Angel-Soft%C2%AE-Ultra-Toilet-Tissue/dp/B09P8SBR37/ref=sr_1_24?keywords=toilet+paper&qid=1644528988&sr=8-24",
+      "image": "https://m.media-amazon.com/images/I/81COXFl3tJL._AC_UL320_.jpg",
+      "price": "$32.99",
+      "inStock": true
+    },
+    {
+      "name": "Scott ComfortPlus Toilet Paper, 12 Mega Rolls, Bath Tissue, 425 Sheets Per Roll",
+      "url": "https://www.amazon.com/Scott-ComfortPlus-Toilet-Tissue-Sheets/dp/B097F6PGDT/ref=sr_1_25_0o_fs?keywords=toilet+paper&qid=1644528988&sr=8-25",
+      "image": "https://m.media-amazon.com/images/I/81CDCcPyRhL._AC_UL320_.jpg",
+      "price": "$12.49",
+      "inStock": true
+    },
+    {
+      "name": "Compact Coreless 2-Ply Recycled Toilet Paper by GP PRO (Georgia-Pacific), 19375, 1,000 Sheets Per Roll, 36 Rolls Per Case",
+      "url": "https://www.amazon.com/Compact-Coreless-Recycled-Georgia-Pacific-19375/dp/B009R6725E/ref=sr_1_26?keywords=toilet+paper&qid=1644528988&sr=8-26",
+      "image": "https://m.media-amazon.com/images/I/81fo42UaeML._AC_UL320_.jpg",
+      "price": "$73.98",
+      "inStock": true
+    },
+    {
+      "name": "Seventh Generation Toilet Paper, Bath Tissue, 100% Recycled Paper, 12 Rolls (Pack of 4) (Packaging May Vary)",
+      "url": "https://www.amazon.com/Seventh-Generation-Toilet-Tissue-Recycled/dp/B00T87VN20/ref=sr_1_27?keywords=toilet+paper&qid=1644528988&sr=8-27",
+      "image": "https://m.media-amazon.com/images/I/91CEnShmXzL._AC_UL320_.jpg",
+      "price": "$43.53",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Gentle Toilet Paper, 18 Mega rolls = 72 regular rolls",
+      "url": "https://www.amazon.com/Charmin-Ultra-Gentle-Toilet-Paper/dp/B00DNYXJP8/ref=sr_1_28?keywords=toilet+paper&qid=1644528988&sr=8-28",
+      "image": "https://m.media-amazon.com/images/I/71y09o2HFDL._AC_UL320_.jpg",
+      "price": "$18.79",
+      "inStock": true
+    },
+    {
+      "name": "365 by Whole Foods Market, Bath Tissue 100% Recycled Double Roll, 260 Count, 12 Pack",
+      "url": "https://www.amazon.com/365-Everyday-Value-Bath-Tissue/dp/B07QMWVYRD/ref=sr_1_29_0o_wf?keywords=toilet+paper&qid=1644528988&sr=8-29",
+      "image": "https://m.media-amazon.com/images/I/71ypzjMyj6L._AC_UL320_.jpg",
+      "price": "$5.99",
+      "inStock": true
+    },
+    {
+      "name": "Kimberly Clark KCC17713 Cottonelle Toilet Tissue, 4.06\" x 4.09\", White (Pack of 60)",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A09563572D5DNOSZ39Z6V&url=%2FKimberly-KCC17713-Cottonelle-Toilet-Tissue%2Fdp%2FB00KWH23HO%2Fref%3Dsr_1_30_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-30-spons%26psc%3D1%26smid%3DA2KMOZ69A6CSN9&qualifier=1644528988&id=7679219928646025&widgetName=sp_mtf",
+      "image": "https://m.media-amazon.com/images/I/71b7yoKXkmS._AC_UL320_.jpg",
+      "price": "$58.66",
+      "inStock": true
+    },
+    {
+      "name": "Wipegel: Turn toilet paper into wet wipes",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A025134316TQSLUZ0XES5&url=%2FWipegel-Turn-Toilet-Paper-Wipes%2Fdp%2FB08HYLQNCZ%2Fref%3Dsr_1_31_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-31-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_mtf",
+      "image": "https://m.media-amazon.com/images/I/71cMgyiFndL._AC_UL320_.jpg",
+      "price": "$5.00",
+      "inStock": true
+    },
+    {
+      "name": "Reel Premium Bamboo Toilet Paper - 24 Rolls of Toilet Paper - 3-Ply Made From Tree-Free, 100% Bamboo Fibers - Eco-Friendly and Zero Plastic Packaging",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0551207S3AOW738TLR6&url=%2FReel-Toilet-Tree-Free-Bamboo-Tissue%2Fdp%2FB088T79ZCS%2Fref%3Dsr_1_32_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-32-spons%26psc%3D1%26smid%3DA15OZK0BEP7HK9&qualifier=1644528988&id=7679219928646025&widgetName=sp_mtf",
+      "image": "https://m.media-amazon.com/images/I/61GYWFEAyiS._AC_UL320_.jpg",
+      "price": "$39.99",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle 12456PK Ultra Soft Bath Tissue, 1-Ply, 165 Sheets/Roll, 12/Pack",
+      "url": "https://www.amazon.com/Cottonelle-12456PK-Ultra-Tissue-Sheets/dp/B00UZNZV24/ref=sr_1_33?keywords=toilet+paper&qid=1644528988&sr=8-33",
+      "image": "https://m.media-amazon.com/images/I/61XIzhrTBnS._AC_UL320_.jpg",
+      "price": "$13.71",
+      "inStock": true
+    },
+    {
+      "name": "Quilted Northern Ultra Soft & Strong Toilet Unscented Paper 24 Double Rolls",
+      "url": "https://www.amazon.com/Quilted-Northern-Strong-Toilet-Unscented/dp/B07HHJ2PBQ/ref=sr_1_34?keywords=toilet+paper&qid=1644528988&sr=8-34",
+      "image": "https://m.media-amazon.com/images/I/51ywwylEbtL._AC_UL320_.jpg",
+      "price": "$38.00",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Strong Clean Touch Toilet Paper, 24 Count (Pack of 1)",
+      "url": "https://www.amazon.com/Charmin-Ultra-Strong-Toilet-Family/dp/B0798C1NYR/ref=sr_1_35?keywords=toilet+paper&qid=1644528988&sr=8-35",
+      "image": "https://m.media-amazon.com/images/I/819UMhu6I2L._AC_UL320_.jpg",
+      "price": "$32.75",
+      "inStock": true
+    },
+    {
+      "name": "NooTrees Bamboo 3-ply Bathroom Tissue, 220 Sheets, 12 Rolls, Ecofriendly,100% Sustainable, Hypoallergenic, Ultra Absorbent Velvety Soft, FSC Certified Bamboo Toilet Paper",
+      "url": "https://www.amazon.com/NooTrees-Bamboo-Bathroom-Tissue-Sheets/dp/B01M9I0F3F/ref=sr_1_36?keywords=toilet+paper&qid=1644528988&sr=8-36",
+      "image": "https://m.media-amazon.com/images/I/81btHbuhvFL._AC_UL320_.jpg",
+      "price": "$16.99",
+      "inStock": true
+    },
+    {
+      "name": "Cottonelle Professional Bulk Toilet Paper for Business (17713), Standard Toilet Paper Rolls, 2-Ply, White, 60 Rolls/Case, 451 Sheets/Roll",
+      "url": "https://www.amazon.com/Cottonelle-Professional-Toilet-Business-Standard/dp/B0014C440U/ref=sr_1_37?keywords=toilet+paper&qid=1644528988&sr=8-37",
+      "image": "https://m.media-amazon.com/images/I/81CNKRytkYL._AC_UL320_.jpg",
+      "price": "$56.15",
+      "inStock": true
+    },
+    {
+      "name": "365 by Whole Foods Market, Bath Tissue Sustainably Soft Double 286 Sheet 12 Count, 286 Pack, 12 Pack",
+      "url": "https://www.amazon.com/365-Everyday-Value-Sustainably-Tissue/dp/B07QRB9CW8/ref=sr_1_38_0o_wf?keywords=toilet+paper&qid=1644528988&sr=8-38",
+      "image": "https://m.media-amazon.com/images/I/71ydU0lsTjL._AC_UL320_.jpg",
+      "price": "$9.99",
+      "inStock": true
+    },
+    {
+      "name": "Quilted Northern Ultra Soft & Strong Toilet Paper, 24 Mega Rolls = 96 Regular Rolls",
+      "url": "https://www.amazon.com/Quilted-Northern-Strong-Toilet-Tissue/dp/B01JRJ3CXG/ref=sr_1_40?keywords=toilet+paper&qid=1644528988&sr=8-40",
+      "image": "https://m.media-amazon.com/images/I/91U93hrAD2L._AC_UL320_.jpg",
+      "price": "$35.40",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Strong Mega Roll 2-Ply Toilet Paper, 264 Sheets Per Roll, 8 Rolls Per Pack, Carton of 3 Packs",
+      "url": "https://www.amazon.com/Charmin-Strong-Toilet-Sheets-Carton/dp/B09HV8RXDH/ref=sr_1_41?keywords=toilet+paper&qid=1644528988&sr=8-41",
+      "image": "https://m.media-amazon.com/images/I/51lAvUtvdKL._AC_UL320_.jpg",
+      "price": "$38.86",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Strong Toilet Paper, 9 Mega Rolls = 36 Regular Rolls (Packaging May Vary)",
+      "url": "https://www.amazon.com/Charmin-Ultra-Strong-Toilet-Tissue/dp/B07DW4RCS1/ref=sr_1_43_0o_fs?keywords=toilet+paper&qid=1644528988&sr=8-43",
+      "image": "https://m.media-amazon.com/images/I/81tQcH4VgXL._AC_UL320_.jpg",
+      "price": "$10.57",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Gentle Toilet Paper, 36 Mega Rolls = 144 Regular Rolls",
+      "url": "https://www.amazon.com/Charmin-Ultra-Gentle-Toilet-Paper/dp/B00DOSAMVW/ref=sr_1_44?keywords=toilet+paper&qid=1644528988&sr=8-44",
+      "image": "https://m.media-amazon.com/images/I/815U8CZQJyL._AC_UL320_.jpg",
+      "price": "$37.58",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Soft Toilet Paper 12 Mega Rolls = 48 Regular Rolls",
+      "url": "https://www.amazon.com/Charmin-Ultra-Toilet-Paper-Regular/dp/B00EYE6VWE/ref=sr_1_45?keywords=toilet+paper&qid=1644528988&sr=8-45",
+      "image": "https://m.media-amazon.com/images/I/814sZJldBYL._AC_UL320_.jpg",
+      "price": "$25.22",
+      "inStock": true
+    },
+    {
+      "name": "365 by Whole Foods Market, Bath Tissue 100% Recycled Double Roll, 260 Count, 6 Pack",
+      "url": "https://www.amazon.com/365-Everyday-Value-Bath-Tissue/dp/B07QLYPWCX/ref=sr_1_48_0o_wf?keywords=toilet+paper&qid=1644528988&sr=8-48",
+      "image": "https://m.media-amazon.com/images/I/71r9qJ8CuFL._AC_UL320_.jpg",
+      "price": "$3.99",
+      "inStock": true
+    },
+    {
+      "name": "Angel Soft® Toilet Paper, 4 Mega Rolls = 16 Regular Rolls, 2-Ply Bath Tissue",
+      "url": "https://www.amazon.com/ANGEL-Toilet-Paper-Tissue-Sheets/dp/B07Y1V32XG/ref=sr_1_49?keywords=toilet+paper&qid=1644528988&sr=8-49",
+      "image": "https://m.media-amazon.com/images/I/81TrBpgeNcL._AC_UL320_.jpg",
+      "price": "$3.98",
+      "inStock": true
+    },
+    {
+      "name": "Seventh Generation White Toilet Paper 2-ply 100% Recycled Paper, 500 sheets, Pack of 60",
+      "url": "https://www.amazon.com/Seventh-Generation-Bathroom-Tissue-Sheets/dp/B007636DIW/ref=sr_1_50?keywords=toilet+paper&qid=1644528988&sr=8-50",
+      "image": "https://m.media-amazon.com/images/I/91EYj0xGBJL._AC_UL320_.jpg",
+      "price": "$82.59",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Soft Bathroom Tissue - 6 Jumbo Rolls",
+      "url": "https://www.amazon.com/Charmin-Ultra-Soft-Bathroom-Tissue/dp/B07QHZYQRC/ref=sr_1_51?keywords=toilet+paper&qid=1644528988&sr=8-51",
+      "image": "https://m.media-amazon.com/images/I/814qJAkFeoL._AC_UL320_.jpg",
+      "price": "$14.40",
+      "inStock": true
+    },
+    {
+      "name": "Quilted-Northern Ultra Plush Bath Tissue, 12 Mega Rolls Toilet Paper, Pack of 2",
+      "url": "https://www.amazon.com/Quilted-Northern-Ultra-Plush-Tissue-Toilet/dp/B07H5QM2VY/ref=sr_1_52?keywords=toilet+paper&qid=1644528988&sr=8-52",
+      "image": "https://m.media-amazon.com/images/I/61TBubkLvpL._AC_UL320_.jpg",
+      "price": "$31.99",
+      "inStock": true
+    },
+    {
+      "name": "Angel Soft® Toilet Paper with Fresh Lavender Scented Tube, 48 Double Rolls = 96 Regular Rolls, 2-Ply Bath Tissue",
+      "url": "https://www.amazon.com/Angel-Soft-Lavender-Scented-Regular/dp/B07Y8Z6GHN/ref=sr_1_53?keywords=toilet+paper&qid=1644528988&sr=8-53",
+      "image": "https://m.media-amazon.com/images/I/818XO3EgatL._AC_UL320_.jpg",
+      "price": "$27.67",
+      "inStock": true
+    },
+    {
+      "name": "Charmin Ultra Soft 36 Family Rolls, 82 Regular Rolls",
+      "url": "https://www.amazon.com/Charmin-Ultra-Family-Rolls-Regular/dp/B0024NUM9A/ref=sr_1_54?keywords=toilet+paper&qid=1644528988&sr=8-54",
+      "image": "https://m.media-amazon.com/images/I/717FRG0orwL._AC_UL320_.jpg",
+      "price": "$31.33",
+      "inStock": true
+    },
+    {
+      "name": "Seventh Generation White Toilet Paper 2-Ply 100% Recycled Paper, 24 Count of 240 Sheets Per Roll, Pack of 2",
+      "url": "https://www.amazon.com/Seventh-Generation-Toilet-Tissue-Recycled/dp/B00D3JA5V4/ref=sr_1_55?keywords=toilet+paper&qid=1644528988&sr=8-55",
+      "image": "https://m.media-amazon.com/images/I/91j2xvxU-VL._AC_UL320_.jpg",
+      "price": "$32.94",
+      "inStock": true
+    },
+    {
+      "name": "Scott 1000 Sheets Per Roll Toilet Paper, 32 Rolls (4 Packs of 8), Bath Tissue",
+      "url": "https://www.amazon.com/Scott-Sheets-Toilet-Paper-Tissue/dp/B07BQV5RWW/ref=sr_1_56?keywords=toilet+paper&qid=1644528988&sr=8-56",
+      "image": "https://m.media-amazon.com/images/I/81G6P8GoEyS._AC_UL320_.jpg",
+      "price": "$31.09",
+      "inStock": true
+    },
+    {
+      "name": "Pasque Paper Ultra Soft Toilet Paper - Super Value Pack of 24 Jumbo Rolls Bath Tissue (2 Packs of 12 Rolls)",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A06661172VPPVSWAMQCE2&url=%2FPasque-Paper-Ultra-Soft-Toilet%2Fdp%2FB09LNSY5XT%2Fref%3Dsr_1_57_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-57-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_btf",
+      "image": "https://m.media-amazon.com/images/I/71pcO34+MEL._AC_UL320_.jpg",
+      "price": "$39.99",
+      "inStock": true
+    },
+    {
+      "name": "pH Advantage 3 x Personal Toilet Kit | Public Restroom Kit | Toilet Paper, Toilet Seat Cover, Butt Wipes, Cleansing Wipes (Black)",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A062652916A30VWO88R3&url=%2FpH-Advantage-Personal-Restroom-Cleansing%2Fdp%2FB09PGMZJP2%2Fref%3Dsr_1_58_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-58-spons%26psc%3D1%26smid%3DAPK5F2J81MYAY&qualifier=1644528988&id=7679219928646025&widgetName=sp_btf",
+      "image": "https://m.media-amazon.com/images/I/51o8vNzULeL._AC_UL320_.jpg",
+      "price": "$16.99",
+      "inStock": true
+    },
+    {
+      "name": "Tork Toilet Paper Roll White T24, Universal, 2-Ply, 96 x 500 sheets, TM1616S",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A09050431GHIPAW0ACJOY&url=%2FTork-Universal-TM1616S-Tissue-Length%2Fdp%2FB004QKNQYW%2Fref%3Dsr_1_59_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-59-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_btf",
+      "image": "https://m.media-amazon.com/images/I/719c1Ug5xVL._AC_UL320_.jpg",
+      "price": "$58.01",
+      "inStock": true
+    },
+    {
+      "name": "Max Pappel (Extra Soft - 2-Ply Mega Rolls Toilet Paper - 400 Sheets Per Roll - Pack of 6 Rolls = 36 Regular rolls",
+      "url": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A012050129SSW1OCD0UW1&url=%2FMax-Pappel-Extra-Soft-Regular%2Fdp%2FB09LP29BG5%2Fref%3Dsr_1_60_sspa%3Fkeywords%3Dtoilet%2Bpaper%26qid%3D1644528988%26sr%3D8-60-spons%26psc%3D1&qualifier=1644528988&id=7679219928646025&widgetName=sp_btf",
+      "image": "https://m.media-amazon.com/images/I/61tCjvYry8L._AC_UL320_.jpg",
+      "price": "$10.89",
+      "inStock": true
+    }
+  ]
+}

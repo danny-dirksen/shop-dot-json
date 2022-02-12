@@ -14,7 +14,7 @@ if (search.s) shopFileNames.push(search.s);
 
 const shops = [];
 shopFileNames.forEach(name => {
-  fetch(`../shops/${name}.json`)
+  fetch(`shops/${name}.json`)
   .then(resp => resp.json())
   .then(shopData => {
     shops.push(shopData);
@@ -28,7 +28,7 @@ class ModelManager {
 
     // Initialize model loader
 
-    this.loader = new GLTFLoader().setPath( '../models/' );
+    this.loader = new GLTFLoader().setPath( 'models/' );
 
     const dracoLoader = new DRACOLoader();
     dracoLoader.setDecoderPath( '/draco/' );

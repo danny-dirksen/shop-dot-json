@@ -9,8 +9,8 @@ Sellers add the data for their items as a json file. THREE.js is used to render 
 
 Shopping Experience (WIP):
 
-[https://github.com/wwwiop/shop-dot-json](https://github.com/wwwiop/shop-dot-json)
+[https://wwwiop.github.io/shop-dot-json](https://github.com/wwwiop/shop-dot-json)
 
 Create a shop (WIP):
 
-[https://github.com/wwwiop/shop-dot-json/create](https://github.com/wwwiop/shop-dot-json/create)
+[https://wwwiop.github.io/shop-dot-json/create](https://github.com/wwwiop/shop-dot-json/create)

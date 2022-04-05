@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create a Shop</title>
+  <style>
+    html {
+      padding: 1rem;
+      font-family: 'Courier New', Courier, monospace;
+      background-color: bisque;
+    }
+    body {
+      margin: 0;
+    }
+    form {
+      padding: 1rem;
+      background-color: white;
+    }
+    .input-section {
+      border: 1px solid black;
+      margin: 1rem 0;
+      padding: 1rem;
+    }
+    .two-column {
+      display: grid;
+      grid-template-columns: auto auto;
+      gap: 0.5rem;
+    }
+    input {
+      border-radius: 0;
+      border: 1px solid black;
+      width: 100%;
+    }
+    input[type="text"] {
+      box-sizing: border-box;
+      padding: 0.5rem;
+    }
+    input[type="button"] {
+      font-size: 2rem;
+      font-family: inherit;
+    }
+    table {
+      border-spacing: 0.5rem;
+    }
+    table input {
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <form action="https://seifosjgeio.com/" method="post">
+    <h1>Create a shop-dot-json shop</h1>
+    This doesn't work yet!
+    <div class="input-section">
+      <h3>Info</h3>
+      <div class="input-line two-column">
+        <label for="name">Store Name</label>
+        <input type="text" name="info.name" id="name">
+        <label for="name">URL to Store Logo (png or jpg)</label>
+        <input type="text" name="info.logoIMG" id="logoIMG">
+        <label for="name">Store Website URL</label>
+        <input type="text" name="info.website" id="website">
+      </div>
+    </div>
+    <div class="input-section">
+      <h3>Color Scheme</h3>
+      <div class="input-line two-column">
+        <label for="floor">Floor Color</label>
+        <input type="color" name="palette.floor" id="floor">
+        <label for="walls">Wall Color</label>
+        <input type="color" name="palette.walls" id="walls">
+        <label for="buttons">Button Color</label>
+        <input type="color" name="palette.buttons" id="buttons">
+        <label for="accent1">Accent 1 (E.G. Shelving)</label>
+        <input type="color" name="palette.accent1" id="accent1">
+        <label for="accent2">Accent 2 (Misc.)</label>
+        <input type="color" name="palette.accent2" id="accent2">
+      </div>
+    </div>
+    <div class="input-section">
+      <h3>Inventory</h3>
+      <table id="inventory-table">
+        <tbody id="inventory-table-body">
+          <th>In Stock?</th><th>Name</th><th>Image</th><th>Price</th>
+        </tbody>
+      </table>
+      <input type="button" onclick="addRow(event); event.preventDefault()" value="Add Item"></input>
+    </div>
+    <div class="input-section">
+      <h3>Create Shop</h3>
+      <input type="button" onclick="create(); event.preventDefault()" value="Create"></input>
+    </div>
+    <div class="input-section">
+      <h3>Output</h3>
+      <pre><code id="output"></code></pre>
+    </div>
+  </form>
+  <script>
+    let tableRow = `
+      <tr>
+        <td><input type="checkbox" name="" checked></td>
+        <td><input type="text" name=""></td>
+        <td><input type="text" name=""></td>
+        <td><input type="text" name=""></td>
+      </tr>
+    `;
+    function addRow(event) {
+      document.getElementById('inventory-table-body').insertAdjacentHTML('beforeend', tableRow)
+    }
+    addRow();
+
+    function create(event) {
+      const formData = new FormData(document.querySelector("form"));
+      const object = {};
+      formData.forEach(function(value, key){
+        object[key] = value;
+      });
+      const json = JSON.stringify(object, null, 2);
+      document.getElementById('output').innerText = json;
+    }
+  </script>
+</body>
+</html>
